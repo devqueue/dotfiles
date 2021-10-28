@@ -1,0 +1,7 @@
+[user]
+	name = Haziq sayyed
+	email = Haziq.sayyed@gmail.com
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
